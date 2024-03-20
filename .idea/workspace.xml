@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcd27db9-d870-4adb-b955-262f70161827" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jukebox/catalog/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jukebox/db/DBConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jukebox/playlist/AudioPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jukebox/service/Jukebox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jukebox/ui/JukeboxUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Die For You.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Ishq Tera.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Ram Aayenge.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +51,7 @@
       <recent name="C:\java-workspace\JukeBox\src\main\resources\audio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DBConnection">
+  <component name="RunManager">
     <configuration name="DBConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jukebox.db.DBConnection" />
       <module name="JukeBox" />
