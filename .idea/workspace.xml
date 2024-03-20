@@ -51,7 +51,7 @@
       <recent name="C:\java-workspace\JukeBox\src\main\resources\audio" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.DBConnection">
     <configuration name="DBConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jukebox.db.DBConnection" />
       <module name="JukeBox" />
